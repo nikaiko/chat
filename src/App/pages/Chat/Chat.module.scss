@@ -1,0 +1,24 @@
+.container {
+  width: 60%;
+  height: 80%;
+  display: flex;
+  justify-content: space-between;
+
+  .users {
+    width: 200px;
+    overflow: auto;
+  }
+
+  .chat {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    flex: 1;
+
+    &__messages {
+      flex: 1;
+      height: calc(100% - 200px);
+      overflow: auto;
+    }
+  }
+}

@@ -1,0 +1,44 @@
+.notice {
+  &__text {
+    margin: auto;
+    padding: 4px 8px;
+    background: #f5f5f5;
+  }
+}
+
+.message {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  gap: 8px;
+
+  &_isMy {
+    flex-direction: row-reverse;
+    justify-content: end;
+
+    .message__text {
+      background: #757ce8;
+      color: white;
+    }
+  }
+
+  &__text {
+    padding: 8px 16px;
+    width: 200px;
+    max-width: 300px;
+    word-wrap: break-word;
+  }
+
+  &__username {
+    font-size: 12px;
+    opacity: 0.5;
+
+    font-weight: 600;
+  }
+
+  &__date {
+    font-size: 12px;
+    opacity: 0.5;
+    text-align: end;
+  }
+}

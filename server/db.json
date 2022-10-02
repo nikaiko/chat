@@ -1,0 +1,146 @@
+{
+  "users": [
+    {
+      "username": "kek",
+      "createdAt": 1664749714778,
+      "id": 1
+    },
+    {
+      "username": "sanya",
+      "createdAt": 1664749857128,
+      "id": 2
+    },
+    {
+      "username": "dsadwadaf",
+      "createdAt": 1664750086359,
+      "id": 3
+    },
+    {
+      "username": "kolya",
+      "createdAt": 1664750539882,
+      "id": 4
+    },
+    {
+      "username": "dima",
+      "createdAt": 1664750569101,
+      "id": 5
+    },
+    {
+      "username": "sanua",
+      "createdAt": 1664750779297,
+      "id": 6
+    },
+    {
+      "username": "lena",
+      "createdAt": 1664751032023,
+      "id": 7
+    }
+  ],
+  "messages": [
+    {
+      "username": "sanya",
+      "text": "cho",
+      "createdAt": 1664749673075,
+      "notice": false,
+      "id": 1
+    },
+    {
+      "username": "kek",
+      "text": "kek вошёл в чат",
+      "createdAt": 1664749714826,
+      "notice": true,
+      "id": 2
+    },
+    {
+      "username": "kek",
+      "text": "xho",
+      "createdAt": 1664749845128,
+      "notice": false,
+      "id": 3
+    },
+    {
+      "username": "sanya",
+      "text": "ns rnj",
+      "createdAt": 1664749849922,
+      "notice": false,
+      "id": 4
+    },
+    {
+      "username": "sanya",
+      "text": "sanya вошёл в чат",
+      "createdAt": 1664749857172,
+      "notice": true,
+      "id": 5
+    },
+    {
+      "username": "kek",
+      "text": "tings",
+      "createdAt": 1664749874339,
+      "notice": false,
+      "id": 6
+    },
+    {
+      "username": "dsadwadaf",
+      "text": "dsadwadaf вошёл в чат",
+      "createdAt": 1664750086389,
+      "notice": true,
+      "id": 7
+    },
+    {
+      "username": "sanya",
+      "text": "cho",
+      "createdAt": 1664750110451,
+      "notice": false,
+      "id": 8
+    },
+    {
+      "username": "kek",
+      "text": "kek",
+      "createdAt": 1664750350182,
+      "notice": false,
+      "id": 9
+    },
+    {
+      "username": "kolya",
+      "text": "kolya вошёл в чат",
+      "createdAt": 1664750539944,
+      "notice": true,
+      "id": 10
+    },
+    {
+      "username": "dima",
+      "text": "dima вошёл в чат",
+      "createdAt": 1664750569162,
+      "notice": true,
+      "id": 11
+    },
+    {
+      "username": "sanua",
+      "text": "sanua вошёл в чат",
+      "createdAt": 1664750779348,
+      "notice": true,
+      "id": 12
+    },
+    {
+      "username": "kek",
+      "text": "cho",
+      "createdAt": 1664750887274,
+      "notice": false,
+      "id": 13
+    },
+    {
+      "username": "dima",
+      "text": "haha",
+      "createdAt": 1664751019505,
+      "notice": false,
+      "id": 14
+    },
+    {
+      "username": "lena",
+      "text": "lena вошёл в чат",
+      "createdAt": 1664751032084,
+      "notice": true,
+      "id": 15
+    }
+  ]
+}
